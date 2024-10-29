@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @nickscip
-- 👀 Check out some of my projects! They include:
+👋 Hi, I’m Nick
+
+👀 Check out some of my projects! They include:
 1. An automated CI workflow for Semantically Versioned deployments.
 2. My NeoVim config
 
