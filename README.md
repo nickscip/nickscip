@@ -1,6 +1,8 @@
 👋 Hi, I’m Nick
 
-👀 Check out some of my projects! They include:
+I'm a Data Engineer with excellent software and ML skills!
+
+👀 Check out some of my personal projects! They include:
 1. An automated CI workflow for Semantically Versioned deployments.
 2. My NeoVim config
 
